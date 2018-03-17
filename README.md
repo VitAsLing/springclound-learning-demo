@@ -3,11 +3,7 @@
 # 分布式 RPC 框架 - 使用说明
 
 > Fork from: [https://gitee.com/huangyong/rpc](https://gitee.com/huangyong/rpc "轻量级分布式 RPC 框架")
-当前版本：1.3.0
 
-发布日期：20151206
-
-发布日志参见 `RELEASE.md` 文档
 
 ## 定义 RPC 接口
 
